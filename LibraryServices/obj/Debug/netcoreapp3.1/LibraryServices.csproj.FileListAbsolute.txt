@@ -1,0 +1,11 @@
+D:\Projects\Book Management\Library\LibraryServices\bin\Debug\netcoreapp3.1\LibraryServices.deps.json
+D:\Projects\Book Management\Library\LibraryServices\bin\Debug\netcoreapp3.1\LibraryServices.dll
+D:\Projects\Book Management\Library\LibraryServices\bin\Debug\netcoreapp3.1\LibraryServices.pdb
+D:\Projects\Book Management\Library\LibraryServices\bin\Debug\netcoreapp3.1\LibraryData.dll
+D:\Projects\Book Management\Library\LibraryServices\bin\Debug\netcoreapp3.1\LibraryData.pdb
+D:\Projects\Book Management\Library\LibraryServices\obj\Debug\netcoreapp3.1\LibraryServices.csprojAssemblyReference.cache
+D:\Projects\Book Management\Library\LibraryServices\obj\Debug\netcoreapp3.1\LibraryServices.AssemblyInfoInputs.cache
+D:\Projects\Book Management\Library\LibraryServices\obj\Debug\netcoreapp3.1\LibraryServices.AssemblyInfo.cs
+D:\Projects\Book Management\Library\LibraryServices\obj\Debug\netcoreapp3.1\LibraryServices.csproj.CopyComplete
+D:\Projects\Book Management\Library\LibraryServices\obj\Debug\netcoreapp3.1\LibraryServices.dll
+D:\Projects\Book Management\Library\LibraryServices\obj\Debug\netcoreapp3.1\LibraryServices.pdb
